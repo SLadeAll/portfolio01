@@ -1,0 +1,20 @@
+.col{
+    color: #65C8DB;
+    
+}
+.pri{
+    color: #A76AD1;
+}
+.HomeTitle{
+    position: relative;
+    width: 100%;
+    font-weight: 3em;
+    font-size: 3em;
+    color: #000;
+}
+.TextInfo{
+    width: 90%;
+}
+p{
+    font-size: large;
+}
